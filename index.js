@@ -4,5 +4,8 @@ for(var i=0;i<NoOfDrums;i++){
 }
 
 function clicked(){
-    alert("I got clicked!!");
+    // var audio = new Audio('sounds/tom-1.mp3');
+    // audio.play();
+    this.style.color='White';
+
 }
